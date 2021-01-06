@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/projekt1.csproj",
+      "projectUniqueName": "/Users/omarsamarah/Desktop/uni/git/cs/projekt1/CS-Projekt/projekt1.csproj",
       "projectName": "projekt1",
-      "projectPath": "/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/projekt1.csproj",
+      "projectPath": "/Users/omarsamarah/Desktop/uni/git/cs/projekt1/CS-Projekt/projekt1.csproj",
       "packagesPath": "/Users/omarsamarah/.nuget/packages/",
-      "outputPath": "/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/obj/",
+      "outputPath": "/Users/omarsamarah/Desktop/uni/git/cs/projekt1/CS-Projekt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/omarsamarah/.nuget/NuGet/NuGet.Config"
