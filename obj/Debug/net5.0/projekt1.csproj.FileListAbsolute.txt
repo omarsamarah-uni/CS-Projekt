@@ -1,0 +1,30 @@
+/Users/omarsamarah/Desktop/uni/cs/projekt1/bin/Debug/net5.0/projekt1.deps.json
+/Users/omarsamarah/Desktop/uni/cs/projekt1/bin/Debug/net5.0/projekt1.runtimeconfig.json
+/Users/omarsamarah/Desktop/uni/cs/projekt1/bin/Debug/net5.0/projekt1.runtimeconfig.dev.json
+/Users/omarsamarah/Desktop/uni/cs/projekt1/bin/Debug/net5.0/projekt1.dll
+/Users/omarsamarah/Desktop/uni/cs/projekt1/bin/Debug/net5.0/ref/projekt1.dll
+/Users/omarsamarah/Desktop/uni/cs/projekt1/bin/Debug/net5.0/projekt1.pdb
+/Users/omarsamarah/Desktop/uni/cs/projekt1/obj/Debug/net5.0/projekt1.csprojAssemblyReference.cache
+/Users/omarsamarah/Desktop/uni/cs/projekt1/obj/Debug/net5.0/projekt1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarsamarah/Desktop/uni/cs/projekt1/obj/Debug/net5.0/projekt1.AssemblyInfoInputs.cache
+/Users/omarsamarah/Desktop/uni/cs/projekt1/obj/Debug/net5.0/projekt1.AssemblyInfo.cs
+/Users/omarsamarah/Desktop/uni/cs/projekt1/obj/Debug/net5.0/projekt1.csproj.CoreCompileInputs.cache
+/Users/omarsamarah/Desktop/uni/cs/projekt1/obj/Debug/net5.0/projekt1.dll
+/Users/omarsamarah/Desktop/uni/cs/projekt1/obj/Debug/net5.0/ref/projekt1.dll
+/Users/omarsamarah/Desktop/uni/cs/projekt1/obj/Debug/net5.0/projekt1.pdb
+/Users/omarsamarah/Desktop/uni/cs/projekt1/obj/Debug/net5.0/projekt1.genruntimeconfig.cache
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/bin/Debug/net5.0/projekt1.deps.json
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/bin/Debug/net5.0/projekt1.runtimeconfig.json
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/bin/Debug/net5.0/projekt1.runtimeconfig.dev.json
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/bin/Debug/net5.0/projekt1.dll
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/bin/Debug/net5.0/ref/projekt1.dll
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/bin/Debug/net5.0/projekt1.pdb
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/obj/Debug/net5.0/projekt1.csprojAssemblyReference.cache
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/obj/Debug/net5.0/projekt1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/obj/Debug/net5.0/projekt1.AssemblyInfoInputs.cache
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/obj/Debug/net5.0/projekt1.AssemblyInfo.cs
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/obj/Debug/net5.0/projekt1.csproj.CoreCompileInputs.cache
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/obj/Debug/net5.0/projekt1.dll
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/obj/Debug/net5.0/ref/projekt1.dll
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/obj/Debug/net5.0/projekt1.pdb
+/Users/omarsamarah/Desktop/uni/cs/projekt1 copy/obj/Debug/net5.0/projekt1.genruntimeconfig.cache
