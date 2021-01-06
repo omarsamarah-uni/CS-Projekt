@@ -1,5 +1,4 @@
 using System;
-using projekt1.Model;
 using projekt1.Controller;
 namespace projekt1.View {
     static class Shape {

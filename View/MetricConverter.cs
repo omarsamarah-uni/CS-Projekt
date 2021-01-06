@@ -1,12 +1,9 @@
 using System;
-using System.Reflection;
-using projekt1.Controller;
 namespace projekt1.View {
     static class MetricConverter {
         public static void ConvertFromTum() {
             Console.WriteLine($"{Model.MetricConverter.ConvertFromTum(Controller.TypeChecker.WriteAndReadDoubleLine("Ange mått i tum: "))} ");
         }
-
         public static void ConvertFromCm() {
             Console.WriteLine($"{Model.MetricConverter.ConvertFromCm(Controller.TypeChecker.WriteAndReadDoubleLine("Ange mått i cm:"))} ");
         }

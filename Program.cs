@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Reflection;
 using projekt1.View;
 namespace projekt1 {
     class Program {

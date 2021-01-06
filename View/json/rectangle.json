@@ -1,10 +1,10 @@
 [
   {
-    "Width": 600,
-    "Height": 800
-  },
-  {
     "Width": 3,
     "Height": 5
+  },
+  {
+    "Width": 40,
+    "Height": 32
   }
 ]

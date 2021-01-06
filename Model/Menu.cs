@@ -1,11 +1,8 @@
 using System;
-using System.Reflection;
 namespace projekt1.Model {
     class Menu {
-        //menuItems2[0,0] = val 
-        //menuItems2[0,1] = methodName
-        //menuItems2[0,2] = param
-        //menuItems2[0,3] = obj
+        //menuItems2[x,0] = val 
+        //menuItems2[x,1] = methodName
         public void ShowMenu(object[,] menuItems) {
             while (true) {
                 PrintLine();
@@ -29,22 +26,8 @@ namespace projekt1.Model {
             }
         }
 
-        /*  public void invokeMethod(Object obj, string methodName, object[] param) {
-             var res = obj.GetType().GetMethod(methodName).Invoke(obj, param);
-             Console.WriteLine(res);
-         } */
-
-        /* static T InvokeMethod<T>(Func<T> Method) {
-            return Method();
-        } */
-
         public void InvokeMethod(Action Method) {
             Method();
-        }
-
-        public void InvokeMethod(Action Method, object[] param) {
-            Method();
-            Method.DynamicInvoke(param);
         }
 
         public void PrintLine() => Console.WriteLine(new string('-', Console.WindowWidth));

@@ -1,4 +1,3 @@
-using System.Reflection;
 using System;
 namespace projekt1.Model {
     static class Speed {

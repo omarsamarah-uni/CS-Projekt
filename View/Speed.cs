@@ -1,5 +1,4 @@
 using System;
-using System.Reflection;
 using projekt1.Controller;
 namespace projekt1.View {
     static class Speed {

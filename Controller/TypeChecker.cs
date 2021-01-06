@@ -1,5 +1,4 @@
 using System;
-using System.Reflection;
 namespace projekt1.Controller {
     static class TypeChecker {
         public static int WriteAndReadIntLine(string msg) {

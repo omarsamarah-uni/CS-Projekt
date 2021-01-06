@@ -1,5 +1,4 @@
 using System;
-
 namespace projekt1.Model {
     public static class MetricConverter {
         public static string ConvertFromTum(double tum) {

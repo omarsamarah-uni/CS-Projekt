@@ -1,10 +1,6 @@
 using System;
-using System.Reflection;
 using projekt1.Model;
 using System.Collections.Generic;
-using System.IO;
-using System.Text.Json;
-using System.Text.Json.Serialization;
 using projekt1.ListExt;
 using projekt1.ObjectExt;
 namespace projekt1.View {
