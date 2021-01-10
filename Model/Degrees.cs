@@ -1,5 +1,4 @@
 using System;
-using System.Reflection;
 namespace projekt1.Model {
     static class Degrees {
         public static double ConvertFromF(string unit, double input) {

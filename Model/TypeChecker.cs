@@ -1,5 +1,5 @@
 using System;
-namespace projekt1.Controller {
+namespace projekt1.Model {
     static class TypeChecker {
         public static int WriteAndReadIntLine(string msg) {
             Console.WriteLine(msg);
